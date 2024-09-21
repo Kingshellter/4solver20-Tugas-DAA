@@ -6,7 +6,8 @@ Anggota Team :
 1. M. Maulana Gian Pranaja  (L0123077)
 2. Primus Putra Prima       (L0123111)
 
-dalam repositories ini terdapat file webnya, kami menggunakan HTML,CSS, dan JAVASCRIPT untuk membuat webnya
+dalam repositories ini terdapat file webnya, kami menggunakan HTML,CSS, dan JAVASCRIPT untuk membuat webnya 
+
 include : 
 1. Demo Video 
 2. Laporan Dokumentasi
