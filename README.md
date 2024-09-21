@@ -7,8 +7,8 @@ Anggota Team :
 2. Primus Putra Prima       (L0123111)
 
 dalam repositories ini terdapat file webnya, kami menggunakan HTML,CSS, dan JAVASCRIPT untuk membuat webnya
-include : 1. Demo Video
-          2. Laporan Dokumentasi
+include : 1. Demo Video /n
+          2. Laporan Dokumentasi /n
           3. file webnya
 
 untuk deploy, kami menggunakan free dari github agar bisa diakses semua orang yang memiliki link
