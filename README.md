@@ -15,4 +15,4 @@ include :
 
 untuk deploy, kami menggunakan free dari github agar bisa diakses semua orang yang memiliki link
 
-link : https://kingshellter.github.io/4solver20-Tugas-DAA/
+🌐 link : https://kingshellter.github.io/4solver20-Tugas-DAA/
