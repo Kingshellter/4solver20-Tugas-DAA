@@ -12,4 +12,4 @@ include : 1. Demo Video
           3. file webnya
 
 untuk deploy, kami menggunakan free dari github agar bisa diakses semua orang yang memiliki link
-link : 
+link : https://kingshellter.github.io/4solver20-Tugas-DAA/
